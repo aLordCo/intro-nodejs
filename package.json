@@ -1,0 +1,22 @@
+{
+  "name": "intro-npm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aLordCo/intro-nodejs.git"
+  },
+  "keywords": [
+    "nodejs"
+  ],
+  "author": "Alexander Ortiz <alex.ortiz.arevalo@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aLordCo/intro-nodejs/issues"
+  },
+  "homepage": "https://github.com/aLordCo/intro-nodejs#readme"
+}
